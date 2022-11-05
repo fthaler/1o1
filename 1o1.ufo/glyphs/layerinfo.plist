@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>lib</key>
+		<dict>
+			<key>org.unifiedfontobject.normalizer.modTimes</key>
+			<string>version: 0.6.1
+1667662531.7 comma.glif
+1667662531.7 eight.glif
+1667662531.7 eight.tnum.glif
+1667662531.7 five.glif
+1667662531.7 five.tnum.glif
+1667662531.7 four.glif
+1667662531.7 four.tnum.glif
+1667662531.7 nine.glif
+1667662531.7 nine.tnum.glif
+1667662531.7 one.glif
+1667662531.7 one.tnum.glif
+1667662531.7 period.glif
+1667662531.7 seven.glif
+1667662531.7 seven.tnum.glif
+1667662531.7 six.glif
+1667662531.7 six.tnum.glif
+1667662531.7 space.glif
+1667662531.7 three.glif
+1667662531.7 three.tnum.glif
+1667662531.7 two.glif
+1667662531.7 two.tnum.glif
+1667662531.7 zero.glif
+1667662531.7 zero.tnum.glif</string>
+		</dict>
+	</dict>
+</plist>

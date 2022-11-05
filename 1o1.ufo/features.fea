@@ -1,0 +1,90 @@
+languagesystem DFLT dflt;
+
+
+# GSUB 
+
+
+lookup TabularNumbers {
+  lookupflag 0;
+    sub \zero by \zero.tnum ;
+    sub \one by \one.tnum ;
+    sub \two by \two.tnum ;
+    sub \three by \three.tnum ;
+    sub \four by \four.tnum ;
+    sub \five by \five.tnum ;
+    sub \six by \six.tnum ;
+    sub \seven by \seven.tnum ;
+    sub \eight by \eight.tnum ;
+    sub \nine by \nine.tnum ;
+} TabularNumbers;
+
+feature tnum {
+
+ script DFLT;
+     language dflt ;
+      lookup TabularNumbers;
+} tnum;
+
+# GPOS 
+
+
+lookup HorizontalKerning {
+  lookupflag 0;
+    pos \zero \seven -50;
+    pos \zero \five -20;
+    pos \one \three -30;
+    pos \one \nine -20;
+    pos \one \eight -20;
+    pos \one \six -20;
+    pos \one \four -40;
+    pos \one \seven -20;
+    pos \two \five -20;
+    pos \two \four -40;
+    pos \two \eight -15;
+    pos \two \seven -20;
+    pos \three \nine -40;
+    pos \three \eight -15;
+    pos \three \six -35;
+    pos \three \seven -25;
+    pos \three \four -20;
+    pos \three \two -20;
+    pos \four \three -20;
+    pos \four \seven -50;
+    pos \five \two -40;
+    pos \five \seven -30;
+    pos \six \four -30;
+    pos \six \three -20;
+    pos \six \two -20;
+    pos \six \nine -30;
+    pos \six \seven -35;
+    pos \seven \zero -35;
+    pos \seven \eight -30;
+    pos \seven \six -35;
+    pos \seven \five -10;
+    pos \seven \four -100;
+    pos \eight \three -15;
+    pos \eight \two -30;
+    pos \eight \nine -30;
+    pos \eight \one -15;
+    pos \nine \three -20;
+    pos \nine \five -30;
+    pos \nine \four -30;
+} HorizontalKerning;
+
+feature kern {
+
+ script DFLT;
+     language dflt ;
+      lookup HorizontalKerning;
+} kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\zero \one \two \three \four \five \six \seven \eight \nine \period 
+	\comma \zero.tnum \one.tnum \two.tnum \three.tnum \four.tnum \five.tnum 
+	\six.tnum \seven.tnum \eight.tnum \nine.tnum \space ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+
