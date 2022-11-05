@@ -2,9 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
-		<key>creator</key>
-		<string>org.sil.scripts.pysilfont</string>
-		<key>formatVersion</key>
-		<integer>3</integer>
+		<key>org.unifiedfontobject.normalizer.modTimes</key>
+		<string>version: 0.6.1
+1667658381.5 fontinfo.plist
+1667658426.1 layercontents.plist
+1667658381.5 metainfo.plist</string>
 	</dict>
 </plist>

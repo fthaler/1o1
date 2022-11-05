@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-  <key>ascender</key>
-  <integer>800</integer>
-  <key>capHeight</key>
-  <integer>720</integer>
-  <key>copyright</key>
-  <string>Copyright (c) 2022, Felix Thaler</string>
-  <key>descender</key>
-  <integer>-200</integer>
-  <key>familyName</key>
-  <string>One-Oh-One</string>
-  <key>guidelines</key>
-  <array>
-    <dict>
-      <key>angle</key>
-      <integer>0</integer>
-      <key>x</key>
-      <integer>325</integer>
-      <key>y</key>
-      <integer>718</integer>
-    </dict>
-  </array>
-  <key>openTypeHeadCreated</key>
-  <string>2022/11/05 15:08:15</string>
-  <key>openTypeHheaAscender</key>
-  <integer>800</integer>
-  <key>openTypeHheaDescender</key>
-  <integer>-200</integer>
-  <key>openTypeHheaLineGap</key>
-  <integer>0</integer>
-  <key>openTypeNameDescription</key>
-  <string>A digitalization of a vintage metal stencil font. Only digits/numbers are included, no letters.</string>
-  <key>openTypeNameDesigner</key>
-  <string>Felix Thaler</string>
-  <key>openTypeNameDesignerURL</key>
-  <string>https://fthaler.nummi.ch</string>
-  <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2022, Felix Thaler (felix.thaler@nummi.ch),
+	<dict>
+		<key>ascender</key>
+		<integer>800</integer>
+		<key>capHeight</key>
+		<integer>720</integer>
+		<key>copyright</key>
+		<string>Copyright (c) 2022, Felix Thaler</string>
+		<key>descender</key>
+		<integer>-200</integer>
+		<key>familyName</key>
+		<string>One-Oh-One</string>
+		<key>guidelines</key>
+		<array>
+			<dict>
+				<key>angle</key>
+				<integer>0</integer>
+				<key>x</key>
+				<integer>325</integer>
+				<key>y</key>
+				<integer>718</integer>
+			</dict>
+		</array>
+		<key>openTypeHeadCreated</key>
+		<string>2022/11/05 15:08:15</string>
+		<key>openTypeHheaAscender</key>
+		<integer>800</integer>
+		<key>openTypeHheaDescender</key>
+		<integer>-200</integer>
+		<key>openTypeHheaLineGap</key>
+		<integer>0</integer>
+		<key>openTypeNameDescription</key>
+		<string>A digitalization of a vintage metal stencil font. Only digits/numbers are included, no letters.</string>
+		<key>openTypeNameDesigner</key>
+		<string>Felix Thaler</string>
+		<key>openTypeNameDesignerURL</key>
+		<string>https://fthaler.nummi.ch</string>
+		<key>openTypeNameLicense</key>
+		<string>Copyright (c) 2022, Felix Thaler (felix.thaler@nummi.ch),
 with Reserved Font Name 1o1.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
@@ -132,63 +132,64 @@ INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.</string>
-  <key>openTypeNameLicenseURL</key>
-  <string>http://scripts.sil.org/OFL</string>
-  <key>openTypeNameManufacturer</key>
-  <string>Felix Thaler</string>
-  <key>openTypeNameManufacturerURL</key>
-  <string>https://fthaler.nummi.ch</string>
-  <key>openTypeNamePreferredFamilyName</key>
-  <string>One-Oh-One</string>
-  <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Regular</string>
-  <key>openTypeNameUniqueID</key>
-  <string>Felix Thaler: One-Oh-One Regular: 2022</string>
-  <key>openTypeNameVersion</key>
-  <string>Version 0.100</string>
-  <key>openTypeOS2Selection</key>
-  <array>
-    <integer>7</integer>
-  </array>
-  <key>openTypeOS2Type</key>
-  <array/>
-  <key>openTypeOS2TypoAscender</key>
-  <integer>800</integer>
-  <key>openTypeOS2TypoDescender</key>
-  <integer>-200</integer>
-  <key>openTypeOS2TypoLineGap</key>
-  <integer>0</integer>
-  <key>openTypeOS2VendorID</key>
-  <string>PfEd</string>
-  <key>openTypeOS2WeightClass</key>
-  <integer>700</integer>
-  <key>openTypeOS2WidthClass</key>
-  <integer>5</integer>
-  <key>openTypeOS2WinAscent</key>
-  <integer>725</integer>
-  <key>openTypeOS2WinDescent</key>
-  <integer>110</integer>
-  <key>postscriptFontName</key>
-  <string>1o1</string>
-  <key>postscriptFullName</key>
-  <string>1o1</string>
-  <key>postscriptUnderlinePosition</key>
-  <integer>-100</integer>
-  <key>postscriptUnderlineThickness</key>
-  <integer>50</integer>
-  <key>styleMapFamilyName</key>
-  <string>1o1</string>
-  <key>styleMapStyleName</key>
-  <string>bold</string>
-  <key>styleName</key>
-  <string>Regular</string>
-  <key>unitsPerEm</key>
-  <integer>1000</integer>
-  <key>versionMajor</key>
-  <integer>0</integer>
-  <key>versionMinor</key>
-  <integer>100</integer>
-  <key>xHeight</key>
-  <integer>480</integer>
-</dict>
+		<key>openTypeNameLicenseURL</key>
+		<string>http://scripts.sil.org/OFL</string>
+		<key>openTypeNameManufacturer</key>
+		<string>Felix Thaler</string>
+		<key>openTypeNameManufacturerURL</key>
+		<string>https://fthaler.nummi.ch</string>
+		<key>openTypeNamePreferredFamilyName</key>
+		<string>One-Oh-One</string>
+		<key>openTypeNamePreferredSubfamilyName</key>
+		<string>Regular</string>
+		<key>openTypeNameUniqueID</key>
+		<string>Felix Thaler: One-Oh-One Regular: 2022</string>
+		<key>openTypeNameVersion</key>
+		<string>Version 0.100</string>
+		<key>openTypeOS2Selection</key>
+		<array>
+			<integer>7</integer>
+		</array>
+		<key>openTypeOS2Type</key>
+		<array>
+		</array>
+		<key>openTypeOS2TypoAscender</key>
+		<integer>800</integer>
+		<key>openTypeOS2TypoDescender</key>
+		<integer>-200</integer>
+		<key>openTypeOS2TypoLineGap</key>
+		<integer>0</integer>
+		<key>openTypeOS2VendorID</key>
+		<string>PfEd</string>
+		<key>openTypeOS2WeightClass</key>
+		<integer>700</integer>
+		<key>openTypeOS2WidthClass</key>
+		<integer>5</integer>
+		<key>openTypeOS2WinAscent</key>
+		<integer>725</integer>
+		<key>openTypeOS2WinDescent</key>
+		<integer>110</integer>
+		<key>postscriptFontName</key>
+		<string>1o1</string>
+		<key>postscriptFullName</key>
+		<string>1o1</string>
+		<key>postscriptUnderlinePosition</key>
+		<integer>-100</integer>
+		<key>postscriptUnderlineThickness</key>
+		<integer>50</integer>
+		<key>styleMapFamilyName</key>
+		<string>1o1</string>
+		<key>styleMapStyleName</key>
+		<string>bold</string>
+		<key>styleName</key>
+		<string>Regular</string>
+		<key>unitsPerEm</key>
+		<integer>1000</integer>
+		<key>versionMajor</key>
+		<integer>0</integer>
+		<key>versionMinor</key>
+		<integer>100</integer>
+		<key>xHeight</key>
+		<integer>480</integer>
+	</dict>
 </plist>
