@@ -47,7 +47,6 @@ lookup HorizontalKerning {
     pos \three \six -35;
     pos \three \seven -25;
     pos \three \four -20;
-    pos \three \four 2;
     pos \three \two -20;
     pos \four \three -20;
     pos \four \seven -50;
@@ -58,10 +57,8 @@ lookup HorizontalKerning {
     pos \six \two -20;
     pos \six \nine -30;
     pos \six \seven -35;
-    pos \six \seven 3;
     pos \seven \zero -35;
     pos \seven \eight -30;
-    pos \seven \eight 3;
     pos \seven \six -35;
     pos \seven \five -10;
     pos \seven \four -100;
